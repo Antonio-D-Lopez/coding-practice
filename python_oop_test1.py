@@ -10,8 +10,8 @@ class Guitar:
         print("This guitar is a ", self.maker, self.model, "!")
 
 
-guitar1 = Guitar("fender", "stratocaster")
-guitar2 = Guitar("gibson", "SG")
+#guitar1 = Guitar("fender", "stratocaster")
+#guitar2 = Guitar("gibson", "SG")
 
-guitar1.play_chord("A")
-guitar2.what_guitar()
+#guitar1.play_chord("A")
+#guitar2.what_guitar()

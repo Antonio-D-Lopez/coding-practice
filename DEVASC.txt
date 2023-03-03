@@ -1,3 +1,1 @@
-I am on my way to passing the Netacad DEVASC exam
-I am beginning to understand Git!
-This text was added originaly while in feature branch
+I am on my way to passing the Cisco DEVASC exam
